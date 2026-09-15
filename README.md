@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi im Sadeeq,
+
+Im currently learning Lua on the side while trying to get better at my workouts
+
+Thankks!
 
 <!--
 **Pancakeisboard/Pancakeisboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
